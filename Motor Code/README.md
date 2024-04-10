@@ -12,3 +12,13 @@ The motor assembly utilizes a WLG-75-R piezoelectric motor to generate rotationa
   <li>Do the same for the main.cpp file found in Keil Studio Cloud and this GitHub folder.</li>
 <i>Note: the main.cpp file is currently not uploaded in GitHub. Please use the Google Drive.</i>
 </ol>
+<b>You have now successfully finished the setup!</b>
+<h2>Building & Running a Program</h2>
+<i>When working in Keil Studio Cloud, make sure that the project you are working on is <b>active</b>.</i>
+<ol>
+  <li> Plug the Nucleo Board into the computer you are using with Keil Studio Cloud.</li>
+  <li>Ensure your current project is <b>active</b>. Set the "Build target" in the left pane as "NUCLEO-F446RE".</li>
+  <li>Build the project using the blue hammer button in the left pane. This will take around a minute the first time you build, but in future builds it will be quicker. Upon completion, a download should be completed as a ".bin" file.</li>
+  <li> Open file explorer. Find the Nucleo Board connection under "This PC". Drag and drop the ".bin" file into the Nucleo drive.</li>
+</ol>
+<b>Your code is now successfully uploaded and running!</b>
