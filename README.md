@@ -18,6 +18,6 @@ Advisor: Dr. James Trevathan
 Client: Mr. Jiayi Tang
 
 <h2>Team Photo </h2>
-![Alt text](https://github.com/JamieF2024/nonmagentic_mover/assets/165958042/ec94cd7e-99de-49dc-ad71-470dc5bd8176)
 
+<img src="/Team Photo S24.jpg" alt = "Team Photo"></img> 
 
