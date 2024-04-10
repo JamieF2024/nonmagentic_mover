@@ -15,6 +15,7 @@ The development of a mechanical device which is MR-compatible poses some unique 
 <h2>Project Contributors </h2>
 Team Members: Maxwell Naslund, Caspar Uy, Kendra Besser, Jamie Flogel, Amber Schneider
 
+
 Advisor: Dr. James Trevathan
 
 Client: Mr. Jiayi Tang
