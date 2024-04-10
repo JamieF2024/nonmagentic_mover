@@ -1,3 +1,12 @@
 <h1>Motor Overview</h1>
 The motor assembly utilizes a WLG-75-R piezoelectric motor to generate rotational motion. This motor is controlled by a WLG-75-R-AMAG and Nucleo Board F446RE. The motor code is written in C++. It can be edited, uploaded, and run through <a href="https://studio.keil.arm.com/">Keil Studio Cloud - Arm</a>. Below are instructions for how to set up and run the main.cpp files in this folder.
-<h2>Setup: </h2>
+<h2>Setup</h2>
+<ol>
+  <li>Login or Create an Account with Keil Studio Cloud.</li>
+  <li>In the top right, go to File -> New -> Mbed Project.</li>
+  <li>For the "Example project" field, select "empty Mbed OS project". Edit the project name to something memorable. The project should now appear as <b>active</b> in the left panel.</li>
+  <li>Right click on the project name in the left panel and select Add Mbed Library.</li>
+  <li> For the "URL" field, use <a href=http://os.mbed.com/users/aberk/code/QEI/>http://os.mbed.com/users/aberk/code/QEI/</a>. The Library Name field should auto-populate as "QEI". </li>
+  <li>Click Next. For the "Release, Branch, or Tag" field, select "default". Click Finish. There should now be a subfolder labeled QEI. This folder contains 2 files: QEI.cpp & QEI.h.</li>
+  <li></li>
+</ol>
