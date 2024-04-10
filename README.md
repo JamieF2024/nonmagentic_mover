@@ -13,4 +13,11 @@ The Quantitative Imaging Methods Lab (QIML) in the Department of Medical Physics
 The development of a mechanical device which is MR-compatible poses some unique challenges. Magnetic metals must not be used at all, and the use of other metals (eg. brass, aluminum) should still be minimized due to the possibility of induced currents as the magnetic field varies over the course of operation of the MRI scanner. A nonmagnetic piezoelectric ultrasonic motor is available for students to integrate into their design, as well as nonmetallic linear sliding rails and bearings. Depending on the interests of the students, the project could be extended to creating motion with multiple degrees of freedom (2D planar motion or translational motion and compressive deformation) or the implementation of a MR-compatible form of closed-loop feedback.
 
 <h2>Project Contributors </h2>
-Kendra Besser, Amber Schnieder, Max Naslund, Jamie Flogel, Caspar Uy
+Team Members: Kendra Besser, Amber Schnieder, Max Naslund, Jamie Flogel, Caspar Uy
+Advisor: Dr. James Trevathan
+Client: Mr. Jiayi Tang
+
+<h2>Team Photo </h2>
+![Alt text](https://github.com/JamieF2024/nonmagentic_mover/assets/165958042/ec94cd7e-99de-49dc-ad71-470dc5bd8176)
+
+
