@@ -14,3 +14,7 @@ The development of a mechanical device which is MR-compatible poses some unique 
 
 <h2>Project Contributors </h2>
 Kendra Besser, Amber Schnieder, Max Naslund, Jamie Flogel, Caspar Uy
+
+<h2>Team Picture </h2>
+![image](https://github.com/JamieF2024/nonmagentic_mover/assets/165958042/6f7b9f89-917e-4f67-874a-e6a8de023b31)
+
