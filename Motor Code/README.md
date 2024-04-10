@@ -8,5 +8,7 @@ The motor assembly utilizes a WLG-75-R piezoelectric motor to generate rotationa
   <li>Right click on the project name in the left panel and select Add Mbed Library.</li>
   <li> For the "URL" field, use <a href=http://os.mbed.com/users/aberk/code/QEI/>http://os.mbed.com/users/aberk/code/QEI/</a>. The Library Name field should auto-populate as "QEI". </li>
   <li>Click Next. For the "Release, Branch, or Tag" field, select "default". Click Finish. There should now be a subfolder labeled QEI. This folder contains 2 files: QEI.cpp & QEI.h.</li>
-  <li></li>
+  <li>Replace the current QEI.cpp and QEI.h files in Keil Studio Cloud with the files in the GitHub Motor Code folder. You can do this by either downloading then uloading the files, or by copying and pasting their contents.</li>
+  <li>Do the same for the main.cpp file found in Keil Studio Cloud and this GitHub folder.</li>
+<i>Note: the main.cpp file is currently not uploaded in GitHub. Please use the Google Drive.</i>
 </ol>
