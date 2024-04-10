@@ -21,3 +21,4 @@ Client: Mr. Jiayi Tang
 
 <img src="/Team Photo S24.jpg" alt = "Team Photo"></img> 
 
+This project is affiliated with the University of Wisconsin-Madison, Department of Biomedical Engineering.
