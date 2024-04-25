@@ -1,4 +1,6 @@
-<h2>Testing and Validation Information</h2>
+<h1>Testing and Validation Information</h1>
+
+<h2>First Round of Testing</h2>
 3 tests were performed: motor encoder test, motor RPM test, and platform sinusoidal motion test.
 
 <h3>Motor Encoder Test</h3>
@@ -9,3 +11,9 @@ This test is performed to determine if the rotations per minute of the motor is 
 
 <h3>Platform Sinusoidal Motion Test</h3>
 This test is performed to determine if the platform is moving at the expected displacement of the sine wave. Trials will be conducted at different weights, but the motor velocity will be constant throughout trials. The prototype will be assessed on how accurate the displacement is over the course of the test in comparison to expected displacement. The expected displacement is calculated by taking the integral of the motor velocity with respect to time. Motor Velocity = A×sin(2π×f×t), with A=10 RPM and f = 8/60 cycles per second therefore, Expected Displacement = A/(2π×f×t)×cos(2π×f×t). This is important to determine if the accuracy of the sinusoidal motion is within 5% deviation. For a full testing protocol refer to Testing Protocols Folder. This test is performed on the entire prototype assembly. To perform this test, place a bright marker on the platform to mark the initial position. Begin recording a video in full view of the platform from above. Run “sinusoidalSpeedVariation()” on Mbed by pressing 2. This program will set the velocity of the motor to a sine wave that varies over time for 60 seconds. Once complete, stop the recording. Measure the displacement throughout the entire time the motor is moving. Identifying key aspects of the wave and comparing them to the expected wave will determine if the sinusoidal motion is within specifications, or if its accuracy needs to be improved.
+
+<h2>Second Round of Testing</h2>
+After making modifications to the protoype and software after preliminary testing we performed another round of testing. In this testing we performed variations of the Platform Sinusoidal Motion Test described above.
+
+<h3>Weight Test</h3>
+We performed the Platform Sinusiodal Motion Test as described above again to see if our device had made any improvements in accuracy.
