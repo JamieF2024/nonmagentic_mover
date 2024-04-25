@@ -16,4 +16,8 @@ This test is performed to determine if the platform is moving at the expected di
 After making modifications to the protoype and software after preliminary testing we performed another round of testing. In this testing we performed variations of the Platform Sinusoidal Motion Test described above.
 
 <h3>Weight Test</h3>
-We performed the Platform Sinusiodal Motion Test as described above again to see if our device had made any improvements in accuracy.
+We performed the Platform Sinusiodal Motion Test as described above again to see if our device had made any improvements in accuracy. For results of this test look in the Test Results folder.
+Based on the results of this test we recalibrated the RPM to voltage conversion factor experimentally and reran the trials for 0 kg and 1.5 kg.
+
+<h3>Frequency and Amplitude Testing</h3>
+We performed more Sinusoidal Motion Tests while keeping the weigth at 0 kg but varying the period and amplitude. We performed 3 trials for each amplitude and frequency variation. We tested out 1 cm and 6 cm amplitudes at a frequency of 8 cycles per minute to compare to our baseline 0 kg test. We also tested out 4 cycles per minute and 20 cycles per minute at an amplitude of 3.6 cm to compare to our baseline 0 kg test. In our inital testing there was an issue with the setup of the recording device so we reran all of the tests. During the 1 cm trial there was significant play between the gears and a disconnect between the driveshaft and the motor. This led us to get only 1 valid trial for the 1 cm test. Due to limited time we were unable to retest. Results of the test are included in the Test Results folder.
